@@ -4,7 +4,7 @@
 
 2. 设置Github设置
 
-    ![](https://raw.githubusercontent.com/qiangboy/images/master/test/Snipaste_2024-07-16_16-12-41.png)
+   ![](https://raw.githubusercontent.com/qiangboy/images/master/test/Snipaste_2024-07-16_16-12-41.png)
 
 3. 点击文件上传
 
